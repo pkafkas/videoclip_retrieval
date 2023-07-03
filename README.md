@@ -4,4 +4,4 @@
 
 2. How to install: This project contains several files which are "stand-alone", meaning they can be run individualy, as long as the proper filepaths are given. For example, a user should point the feature extractors to the location of his video file. Functionality for extracting the .wav file from the video file has not been implemented yet, so the user should use the ffmpeg library in order to extract the raw audio files for the audio extractor.
 
-3. Requirements: This project relies on several python libraries for execution which can be found in the "requirements.txt". Notably, we used two particual useful libraries for extracting the video features (openAI - CLIP) and audio features (pyAudioANalysis).
+3. Requirements: This project relies on several python libraries for execution which can be found in the "requirements.txt". Notably, we used two particual useful libraries for extracting the video features (openAI - CLIP) and audio features (pyAudioAnalysis).
